@@ -4,7 +4,7 @@
   <div>
       <a href="https://amirsaffari.ir"><img src="https://i.imgur.com/N4EKZuM.png" height="30" width="30"></a>
       &nbsp;
-      <a href="https://discord.com/users/654969698471116800"><img src="https://i.imgur.com/CZU39q2.png" height="30" width="30"></a>
+      <a href="https://discord.com/users/654969698471116800"><img src="https://i.imgur.com/bZtA7mN.png" height="30" width="30"></a>
   </div>
   <h3>Languages and Tools</h3>
   <div>
